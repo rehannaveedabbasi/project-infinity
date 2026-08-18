@@ -6,15 +6,35 @@
 
 # 
 
-# Project Infinity is my long-term personal development journey toward becoming a \*\*Computer Scientist, AI Engineer, Researcher, and ultimately a Scientist capable of creating new knowledge\*\*.
+# \*\*Project Infinity\*\* is my long-term personal development journey toward becoming a \*\*Computer Scientist, AI Engineer, Researcher, and ultimately a Scientist capable of creating new knowledge.\*\*
 
 # 
 
-# This repository documents my learning, implementation, problem solving, experiments, projects, research, and technical growth.
+# This repository documents my:
 
 # 
 
-# \### Core Philosophy
+# \* Learning
+
+# \* Programming
+
+# \* Problem solving
+
+# \* Experiments
+
+# \* Projects
+
+# \* Research
+
+# \* Technical growth
+
+# 
+
+# \---
+
+# 
+
+# \## 🧠 Core Philosophy
 
 # 
 
@@ -22,11 +42,15 @@
 
 # 
 
-# \### Current Focus
+# \---
 
 # 
 
-# \*\*Phase 1 — Computer Science Foundations\*\*
+# \## 🎯 Current Focus
+
+# 
+
+# \### Phase 1 — Computer Science Foundations
 
 # 
 
@@ -46,7 +70,11 @@
 
 # 
 
-# \### Journey
+# \---
+
+# 
+
+# \## 🗺️ The Journey
 
 # 
 
@@ -54,47 +82,47 @@
 
 # Computer Science
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Programming
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Data Structures \& Algorithms
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Mathematics \& Statistics
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Machine Learning
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # MLOps
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Deep Learning
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Transformers
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # LLMs
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Agentic AI
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Research
 
-# &#x20;       ↓
+# &#x20;      ↓
 
 # Discovery
 
@@ -102,11 +130,37 @@
 
 # 
 
-# \### Day 01
+# \---
 
 # 
 
-# Starting with \*\*C++ programming fundamentals, problem solving, and Git/GitHub\*\*.
+# \## 📅 Day 01
+
+# 
+
+# \*\*Focus:\*\* C++ Programming Fundamentals, Problem Solving, and Git/GitHub
+
+# 
+
+# \### Progress
+
+# 
+
+# \* \[x] GitHub account setup
+
+# \* \[x] Project Infinity repository created
+
+# \* \[x] Git configured
+
+# \* \[x] Local repository connected
+
+# \* \[x] `.gitignore` configured
+
+# \* \[x] First C++ program created
+
+# \* \[x] First commit created
+
+# \* \[x] First push to GitHub
 
 # 
 
@@ -114,9 +168,13 @@
 
 # 
 
-# \*\*This is not simply a collection of code.
+# \## 🔬 The Principle
 
-# It is a record of the journey.\*\*
+# 
+
+# > \*\*This is not simply a collection of code.
+
+# > It is a record of the journey.\*\*
 
 
 
